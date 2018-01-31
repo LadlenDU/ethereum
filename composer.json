@@ -1,0 +1,21 @@
+{
+    "name": "ladlen/yii2-ladlen-ethereum",
+    "description": "Ethereum wallet operations",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ladlen",
+            "email": "TwilightTower@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ladlen\\ethereum\\": ""
+        }
+    }
+}
